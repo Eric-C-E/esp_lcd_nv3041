@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: Apache-2.0
  */
-//adapted for nv3041a by Eric-C-E
+// Adapted for NV3041A panel.
 #include <stdlib.h>
 #include <sys/cdefs.h>
 #include "freertos/FreeRTOS.h"
@@ -187,7 +187,7 @@ static esp_err_t panel_nv3041_reset(esp_lcd_panel_t *panel)
     return ESP_OK;
 }
 
-//modified by Eric-C-E
+// Customized for NV3041A panel.
 //Driver: NV3041A-01, 3.9 inch TFT
 //Minimal: only sets what is absolutely necessary > refer datasheet for tuning
 static const nv3041_lcd_init_cmd_t vendor_specific_init_default[] = {

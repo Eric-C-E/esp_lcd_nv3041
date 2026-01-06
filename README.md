@@ -4,7 +4,7 @@ NV3041 LCD controller driver for the ESP-IDF `esp_lcd` component (4 Wire SPI int
 
 | LCD controller | Communication interface | Component name | Link to datasheet |
 | :------------: | :---------------------: | :------------: | :---------------: |
-| NV3041         | SPI                     | esp_lcd_nv3041 | [NV3041A datasheet](../../../NV_3041_A_Datasheet_V1_2_20221011_686486a221.pdf) |
+| NV3041         | SPI                     | esp_lcd_nv3041 | [NV3041A datasheet](NV_3041_A_Datasheet_V1_2_20221011_686486a221.pdf) |
 
 ## Add to project
 
