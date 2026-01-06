@@ -1,5 +1,8 @@
 version: "0.1.0"
 description: "NV3041 LCD panel driver for ESP-IDF esp_lcd"
+repository: git://github.com/Eric-C-E/esp_lcd_nv3041.git"
+issues: "https://github.com/Eric-C-E/esp_lcd_nv3041/issues"
+documentation: "https://github.com/Eric-C-E/esp_lcd_nv3041#readme"
 url: "https://github.com/Eric-C-E/esp_lcd_nv3041"
 license: "Apache 2.0"
 dependencies:
