@@ -1,4 +1,4 @@
-version: "0.1.1"
+version: "0.1.2"
 description: "NV3041 LCD panel driver for ESP-IDF esp_lcd"
 repository: "https://github.com/Eric-C-E/esp_lcd_nv3041.git"
 issues: "https://github.com/Eric-C-E/esp_lcd_nv3041/issues"
